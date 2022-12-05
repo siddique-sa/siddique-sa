@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Cloud Based developments with DevOps
 - 😄 Pronouns: _he/him/his_
 - ⚡ Fun fact: Fond of new gadgets & SitComs
-- 📫 How to reach me: <br> [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](siddiqueahmed.sa@gmail.com) 
+- 📫 How to reach me: <br> [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddiqueahmed.sa@gmail.com) 
 
 
 
