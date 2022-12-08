@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cloud native applications & its Developments with DevOps
 - 🌱 I’m currently learning **K8S, Docker, AWS, Bash, Go** 
 - 👯 I’m looking to collaborate on Cloud Based developments with DevOps
-- 😄 Pronouns: _he/him/_
+- 😄 Pronouns: _he/him_
 - ⚡ Fun fact: Fond of new gadgets, Sci-Fi & SitComs
 - 📫 How to reach me: <br> <br> [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddiqueahmed.sa@gmail.com) 
 <br> [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
