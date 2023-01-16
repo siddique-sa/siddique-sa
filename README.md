@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Siddique _[sid-dique]_
 
 - 🔭 I’m currently working on Cloud native applications & its Developments with DevOps
-- 🌱 I’m currently learning **K8S, Docker, AWS, Bash, Go** 
+- 🌱 I’m currently learning **K8S, Docker, AWS, Bash, Terraform** 
 - 👯 I’m looking to collaborate on Cloud Based developments with DevOps
 - 😄 Pronouns: _he/him_
 - ⚡ Fun fact: Fond of new gadgets, Sci-Fi & SitComs
